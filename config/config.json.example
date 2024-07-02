@@ -1,0 +1,13 @@
+{
+    "trade_destination": "[U:1:22202]",
+    "accounts": [
+        {
+            "account": "example_1",
+            "password": "my_password"
+        },
+        {
+            "account": "example_2",
+            "password": "my_password"
+        },
+    ]
+}

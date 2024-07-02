@@ -1,0 +1,16 @@
+{
+  "name": "card-movers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "steam-tradeoffer-manager": "^2.11.4",
+    "steam-user": "^5.0.10"
+  }
+}
