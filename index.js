@@ -89,7 +89,7 @@ class CardMover {
 
             console.log(`[${currentClass.#username}] Trade manager client cookies set`);
 
-            currentClass.#tradeManagerClient.getInventoryContents(753, 6, false, function (err, inventory) {
+            currentClass.#tradeManagerClient.getInventoryContents(753, 6, true, function (err, inventory) {
                 if (!err) {
                     let my_inv = inventory.filter((ITEM) => ITEM.getTag("item_class").internal_name == "item_class_2" && ITEM.getTag("Event").internal_name == 'summersale2024');
                     // console.log(my_inv)
