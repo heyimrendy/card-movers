@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "steam-tradeoffer-manager": "^2.11.4",
-    "steam-user": "^5.0.10"
+    "steam-tradeoffer-manager": "^2.11.7",
+    "steam-user": "^5.2.0"
   }
 }
