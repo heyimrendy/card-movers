@@ -8,6 +8,6 @@
         {
             "account": "example_2",
             "password": "my_password"
-        },
+        }
     ]
 }
